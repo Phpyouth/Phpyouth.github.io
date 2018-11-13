@@ -1,0 +1,16 @@
+---
+ID: 13551
+post_title: Pie Chart With Icon
+author: phpyouth
+post_excerpt: ""
+layout: page
+permalink: >
+  http://dpws-demo.site/GODIS/pie-chart-icon
+published: true
+post_date: 2014-03-24 16:05:11
+---
+[vc_row row_type="row" type="grid" text_align="left" padding_top="87" background_color="#ffffff" padding_bottom="15"][vc_column width="1/1"][vc_column_text]
+<h2 style="text-align: center;">PIE CHART SHORTCODE</h2>
+[/vc_column_text][vc_separator type="small" position="center" down="38" up="7"][vc_column_text]
+<h4 style="text-align: center;">Carefully crafted elements come together into one amazing design.</h4>
+[/vc_column_text][vc_separator type="transparent" position="center" up="38" down="39"][vc_row_inner][vc_column_inner width="1/4"][pie_chart_with_icon icon="fa-check" icon_size="fa-3x" percent="45" title="Creative Ideas" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper."][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][vc_column_inner width="1/4"][pie_chart_with_icon icon="fa-rocket" icon_size="fa-3x" percent="76" title="Business Solutions" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper."][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][vc_column_inner width="1/4"][pie_chart_with_icon icon="fa-trophy" icon_size="fa-3x" percent="77" title="Finished Projects" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper."][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][vc_column_inner width="1/4"][pie_chart_with_icon icon="fa-envelope-o" icon_size="fa-3x" percent="92" title="Customer Support" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper."][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/4"][pie_chart_with_icon icon="fa-plane" icon_size="fa-3x" percent="76" title="Business Solutions" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper."][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][vc_column_inner width="1/4"][pie_chart_with_icon icon="fa-bullseye" icon_size="fa-3x" percent="45" title="Creative Ideas" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper."][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][vc_column_inner width="1/4"][pie_chart_with_icon icon="fa-envelope" icon_size="fa-3x" percent="92" title="Customer Support" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper."][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][vc_column_inner width="1/4"][pie_chart_with_icon icon="fa-wrench" icon_size="fa-3x" percent="77" title="Finished Projects" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper."][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]

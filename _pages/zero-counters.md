@@ -1,0 +1,17 @@
+---
+ID: 13452
+post_title: Zero Counters
+author: phpyouth
+post_excerpt: ""
+layout: page
+permalink: >
+  http://dpws-demo.site/GODIS/zero-counters
+published: true
+post_date: 2014-03-24 13:30:20
+---
+[vc_row row_type="row" type="grid" text_align="left" padding_top="87" padding_bottom="30" background_color="#ffffff" el_class="custom_color"][vc_column width="1/1"][vc_column_text]
+<h2 style="text-align: center;">Counters</h2>
+[/vc_column_text][vc_separator type="small" position="center" up="7" down="38"][vc_column_text]
+<h4 style="text-align: center;">Separated they live in Bookmarksgrove right at the coast of the Semantics,</h4>
+<h4 style="text-align: center;">a large language ocean.</h4>
+[/vc_column_text][vc_separator type="transparent" position="center" up="31" down="19"][vc_row_inner][vc_column_inner width="1/3"][counter type="zero" box="no" position="center" separator="yes" digit="1273" text="Finished Projects" font_color="#505050" separator_color="#1abc9c"][vc_separator type="transparent" position="center" up="37" down="0"][/vc_column_inner][vc_column_inner width="1/3"][counter type="zero" box="no" position="center" separator="yes" digit="683" text="Custom Counters" font_color="#505050" separator_color="#1abc9c"][vc_separator type="transparent" position="center" up="37" down="0"][/vc_column_inner][vc_column_inner width="1/3"][counter type="zero" box="no" position="center" separator="yes" digit="2691" text="Lines Of Code" font_color="#505050" separator_color="#1abc9c"][vc_separator type="transparent" position="center" up="37" down="0"][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/3"][counter type="zero" box="no" position="center" separator="yes" digit="7922" text="Lines of Code" font_color="#505050" separator_color="#1abc9c"][vc_separator type="transparent" position="center" up="37" down="0"][/vc_column_inner][vc_column_inner width="1/3"][counter type="zero" box="no" position="center" separator="yes" digit="576" text="Custom Counters" font_color="#505050" separator_color="#1abc9c"][vc_separator type="transparent" position="center" up="37" down="0"][/vc_column_inner][vc_column_inner width="1/3"][counter type="zero" box="no" position="center" separator="yes" digit="742" text="Cups Of Coffee" font_color="#505050" separator_color="#1abc9c"][vc_separator type="transparent" position="center" up="37" down="0"][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/3"][counter type="zero" box="no" position="center" separator="yes" digit="569" text="Finished Projects" font_color="#505050" separator_color="#1abc9c"][vc_separator type="transparent" position="center" up="37" down="0"][/vc_column_inner][vc_column_inner width="1/3"][counter type="zero" box="no" position="center" separator="yes" digit="88" text="Custom Counters" font_color="#505050" separator_color="#1abc9c"][vc_separator type="transparent" position="center" up="37" down="0"][/vc_column_inner][vc_column_inner width="1/3"][counter type="zero" box="no" position="center" separator="yes" digit="8690" text="Lines Of Code" font_color="#505050" separator_color="#1abc9c"][vc_separator type="transparent" position="center" up="37" down="0"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]

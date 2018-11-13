@@ -1,0 +1,15 @@
+---
+ID: 13539
+post_title: Pie Charts
+author: phpyouth
+post_excerpt: ""
+layout: page
+permalink: http://dpws-demo.site/GODIS/pie-charts
+published: true
+post_date: 2014-03-24 15:46:37
+---
+[vc_row row_type="row" type="grid" text_align="left" padding_top="87" background_color="#ffffff" padding_bottom="15"][vc_column width="1/1"][vc_column_text]
+<h2 style="text-align: center;">PIE CHART SHORTCODE</h2>
+[/vc_column_text][vc_separator type="small" position="center" down="38" up="7"][vc_column_text]
+<h4 style="text-align: center;">Carefully crafted elements come together into one amazing design.</h4>
+[/vc_column_text][vc_separator type="transparent" position="center" up="38" down="39"][vc_row_inner][vc_column_inner width="1/4"][pie_chart percent="34" title="Creative Ideas" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper." title_tag="h3"][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][vc_column_inner width="1/4"][pie_chart percent="57" title="Business Solutions" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper." title_tag="h3"][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][vc_column_inner width="1/4"][pie_chart percent="72" title="Inovative Projects" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper." title_tag="h3"][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][vc_column_inner width="1/4"][pie_chart percent="88" title="Customer Support" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper." title_tag="h3"][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/4"][pie_chart percent="34" title="Creative Ideas" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper." title_tag="h3"][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][vc_column_inner width="1/4"][pie_chart percent="57" title="Business Solutions" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper." title_tag="h3"][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][vc_column_inner width="1/4"][pie_chart percent="88" title="Customer Support" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper." title_tag="h3"][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][vc_column_inner width="1/4"][pie_chart percent="72" title="Inovative Projects" text="Ut wisi enim ad minim veniam, quis nos trud exerci tation ullamcorper." title_tag="h3"][vc_separator type="transparent" position="center" up="74" down="0"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
